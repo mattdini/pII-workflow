@@ -1,0 +1,24 @@
+{
+  "name": "pII-workflow",
+  "version": "1.0.0",
+  "description": "GitHub workflow to detect PII data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdini/pII-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdini/pII-workflow/issues"
+  },
+  "homepage": "https://github.com/mattdini/pII-workflow#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.1.1"
+  }
+}
